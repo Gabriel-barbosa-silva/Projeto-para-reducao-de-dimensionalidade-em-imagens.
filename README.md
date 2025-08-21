@@ -1,0 +1,1 @@
+# Projeto-para-reducao-de-dimensionalidade-em-imagens.
